@@ -17,5 +17,7 @@ public class Constants {
 
     public static final String URI_COMMENTS = "/comments";
 
+    public static final String URI_TRANSACTIONS = "/transactions";
+
     public static final String URI_API_PUBLIC = "/api/public";
 }
